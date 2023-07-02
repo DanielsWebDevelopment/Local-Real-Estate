@@ -1,17 +1,18 @@
 # Local Real Estate
-#### This project was done as a personal project 
+![Local_Real-estate](https://github.com/DanielsWebDevelopment/Local-Real-Estate/assets/129445203/4df1ac02-651e-4bc3-b51a-f29e8e21424f)
+## This project was done as a personal project 
 
-## This project was built using HMTL CSS, JavaScript, SwiperJs, & Boostrap 
+### This project was built using HMTL CSS, JavaScript, SwiperJs, & Boostrap 
 #### the main goal for this project is to allow users to be able to search for 
 #### housing, find a real estate agents, or event search for real estate agents or housing around the country.
 
-## Some of the features include but not limited too, 
+### Some of the features include but not limited too, 
 * implementation of allowing users to search for the type of agent. Housing Apartment or unit complex they desire
 
-## Futures implementations include, 
+### Futures implementations include, 
 * allowing users to search for the type of agent they desure such as Special Agents, Sales Agents and Licencing Agents
 
-## Below are screenshots of the websites scructure from Desktop to Mobile 
+### Below are screenshots of the websites scructure from Desktop to Mobile 
 
 #### Desktop
 ![2023-07-02 (2)](https://github.com/DanielsWebDevelopment/NodeJs-Web-Scraper/assets/129445203/306d56e8-18ad-42a1-bb88-a9ffdc5d4eff)

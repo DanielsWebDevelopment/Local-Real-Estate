@@ -1,6 +1,6 @@
 # Local Real Estate
 ![Local_Real-estate](https://github.com/DanielsWebDevelopment/Local-Real-Estate/assets/129445203/4df1ac02-651e-4bc3-b51a-f29e8e21424f)
-## This project was done as a personal project 
+### This project was done as a personal project 
 
 ### This project was built using HMTL CSS, JavaScript, SwiperJs, & Boostrap 
 #### the main goal for this project is to allow users to be able to search for 

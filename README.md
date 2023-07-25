@@ -6,7 +6,7 @@
 #### the main goal for this project is to allow users to be able to search for 
 #### housing, find a real estate agents, or event search for real estate agents or housing around the country.
 
-### Some of the features include but not limited too, 
+### Some of the features include but not limited too
 * implementation of allowing users to search for the type of agent. Housing Apartment or unit complex they desire
 
 ### Futures implementations include, 

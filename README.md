@@ -31,7 +31,6 @@
 *
 
 ### Mobile 
-![2023-07-02 (15)](https://github.com/DanielsWebDevelopment/NodeJs-Web-Scraper/assets/129445203/985c4254-b919-4f60-80ff-fbd29b398b86)
 
 ![2023-07-02 (16)](https://github.com/DanielsWebDevelopment/NodeJs-Web-Scraper/assets/129445203/900390e2-6069-4998-ab10-9d82f54237fe)
 

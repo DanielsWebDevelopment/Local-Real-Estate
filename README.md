@@ -12,7 +12,7 @@
 ### Futures implementations include, 
 * allowing users to search for the type of agent they desure such as Special Agents, Sales Agents and Licencing Agents
 
-### Below are screenshots of the websites scructure from Desktop to Mobile 
+### Below are screenshots of the websites structure from Desktop to Mobile 
 
 #### Desktop
 ![2023-07-02 (2)](https://github.com/DanielsWebDevelopment/NodeJs-Web-Scraper/assets/129445203/306d56e8-18ad-42a1-bb88-a9ffdc5d4eff)
